@@ -17,4 +17,4 @@ print("ans operator:-", val1 and val2)
 
 #jab dono value me se ek vi value true ho to nas true ho ga nahi to false ho jaye ga 
 
-print("ans operator:-", val1 or val2)
+print("or operator:-", val1 or val2)
