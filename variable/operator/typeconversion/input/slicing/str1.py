@@ -1,4 +1,6 @@
 # str = "apple"
 # print(str[-5:-1])
-str = " I am studying python from gfg"
-print(str.endswith ("gfg"))
+str = " i am studying python from gfg"
+# print(str.capitalize ())
+str = str.capitalize()
+print(str)
