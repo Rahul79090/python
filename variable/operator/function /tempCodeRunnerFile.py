@@ -1,1 +1,1 @@
-list.append(4)
+list1 = [1,2,1]
