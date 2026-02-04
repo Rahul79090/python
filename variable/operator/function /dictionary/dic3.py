@@ -6,4 +6,4 @@ student = {
         "math":95
     }
 }
-print(student["subject"]["chem"])
+print(student["subject"]["math"])
