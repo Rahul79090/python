@@ -7,3 +7,10 @@ student = {
     }
 }
 print(student["subject"]["math"])
+print(student["subject"]["phy"])
+
+print(len(student))
+
+float(9)
+print(student.keys())
+print(list(student.values()))
