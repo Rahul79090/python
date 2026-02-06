@@ -7,7 +7,9 @@ student = {
     }
 }
 
-new_dict ={"city" : "Rahul kumar", "age":-16}
+new_dict ={"city" : "new delhi", "age":-16}
+new_dictes={"name" : "Rahul kumar" , "country" : "india"}
+
 # student.update({"city" : "delhi"})
 student.update(new_dict)
 print(student)
