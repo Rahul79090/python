@@ -7,5 +7,10 @@ collection.add(1)
 collection.add(2)
 collection.add(2)
 
+collection.remove(2)
+collection.add("rahul kuamr")
+collection.add((1,2,3))
+
 print(type(collection))
 print(collection)
+print(len(collection))
