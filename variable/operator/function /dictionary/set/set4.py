@@ -26,4 +26,4 @@ subject = {
 }
 print(subject)
 print(len(subject))
-
+print(subject)
