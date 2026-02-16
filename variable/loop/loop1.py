@@ -36,6 +36,8 @@
 #     count-=1
 
 #  print the multi[lication table of a number n.
+
+
 n = int(input("enter the number:- "))
 i = 1
 while i <=10:
