@@ -7,6 +7,18 @@
 #         break
 #     print(i)
 
+
+# even number ke liye 
+# i = 1
+# while i<=10:
+#     if(i%2 !=0):
+#         i +=1
+#         continue #skip
+#     print(i)
+#     i +=1
+
+
+    # odd number ke liye odd hi ki nahi
 i = 1
 while i<=10:
     if(i%2 ==0):
@@ -14,3 +26,4 @@ while i<=10:
         continue #skip
     print(i)
     i +=1
+
