@@ -41,12 +41,12 @@
 # else:
 #     print("not found")
 
-nums = (1 , 4, 9, 16, 25, 49, 64, 81, 100,49)
+# nums = (1 , 4, 9, 16, 25, 49, 64, 81, 100,49)
 
-x =49
+# x =49
 
-idx = 0
-for el in nums:
-    if(el == x):
-        print("number found at idx",idx)
-    idx += 1
+# idx = 0
+# for el in nums:
+#     if(el == x):
+#         print("number found at idx",idx)
+#     idx += 1
