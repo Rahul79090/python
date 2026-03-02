@@ -4,7 +4,7 @@ def calc_sum(a , b):
     return sum
 
 
-    calc_sum(5 , 10)
+calc_sum(5 , 10)
 
 # a = 2
 # b = 3
