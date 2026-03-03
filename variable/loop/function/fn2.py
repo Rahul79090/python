@@ -5,3 +5,5 @@ def calc_sum(a , b):
 
 
 calc_sum(5 , 10)
+
+calc_sum(13, 14)
