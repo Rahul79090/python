@@ -1,9 +1,6 @@
-# n = int(input("enter the natural number"))
-# sum = n*(n+1)/2
-# print("sum is :-", sum)
+def calc_sum(a , b):
+    return a+b
 
-
-# n = int(input("enter the natural number"))
-# sum = n*(n+1)/2
-# print("sum is :-", sum)
+sum = calc_sum(12, 2)
+print(sum)    
 
