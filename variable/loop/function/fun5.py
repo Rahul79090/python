@@ -11,10 +11,15 @@
 # sum = calc_sum(15, 2)
 # print(sum)    
 
-def calc_sum(a , b):
-    return a+b
+# def calc_sum(a , b):
+#     return a+b
 
-sum = calc_sum(16, 4)
-print(sum)    
+# sum = calc_sum(16, 4)
+# print(sum)    
 
+
+def print_hello():
+    print("hello")
+
+print_hello()    
 
