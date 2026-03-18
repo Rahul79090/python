@@ -19,11 +19,32 @@
 
 
 #wap to find the factorial of n
-n= 5
-def cal_fact(n):
-    fact = 1
-    for i in range(1, n+1):
-        fact *=i
+# n= 5
+# def cal_fact(n):
+#     fact = 1
+#     for i in range(1, n+1):
+#         fact *=i
 
-    print(fact)
-cal_fact(5)
+#     print(fact)
+# cal_fact(5)
+
+# wap to convert usd to INR
+
+# def converter(usd_val):
+#     inr_val = usd_val*83
+#     print(usd_val,"usd =",inr_val, "INR")
+
+# converter(100)
+
+
+# add even in function
+
+def check_add_even(num):
+    if num % 2 == 0:
+        print("even number")
+    else:
+        print("odd number")
+
+        # function call
+check_add_even(10)
+check_add_even(7)
