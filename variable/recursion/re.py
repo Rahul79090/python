@@ -29,12 +29,19 @@
 # sum = calc_sum(n)
 # print(sum)
 
-n = int(input("enter the value of n:-"))
-def calc_sum(n):
-    if(n ==0):
-        return 0
-    # print(n)
-    return calc_sum(n-1)+n
+# n = int(input("enter the value of n:-"))
+# def calc_sum(n):
+#     if(n ==0):
+#         return 0
+#     # print(n)
+#     return calc_sum(n-1)+n
 
-sum = calc_sum(n)
-print(sum)
+# sum = calc_sum(n)
+# print(sum)
+
+n = 5
+fact = 1
+for i in range(1, n+1):
+    fact *=i
+
+    print("factrial =", fact)
