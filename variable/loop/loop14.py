@@ -18,10 +18,15 @@
 #     print(i)
 #     i +=1
 
-n = int(input("Enter a number: "))
-fact = 1
+# n = int(input("Enter a number: "))
+# fact = 1
 
-for i in range(1, n + 1):
-    fact *= i
+# for i in range(1, n + 1):
+#     fact *= i
 
-print("Factorial =", fact)
+# print("Factorial =", fact)
+
+arr = [10, 20, 30, 40]
+total = sum(arr)
+
+print("Sum =", total)
