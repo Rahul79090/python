@@ -31,9 +31,16 @@
 
 #     print("factrial =", fact)
 
-n = 5
-fact = 1
-for i in range(1, n+1):
-    fact *=i
+# n = 5
+# fact = 1
+# for i in range(1, n+1):
+#     fact *=i
 
-    print("factrial =", fact)
+#     print("factrial =", fact)
+
+# int n = 5
+# for i in range(1 , 0 , -1)
+# print("*"*2)
+
+for i in range(4 , 0, -1):
+    print("*" *i)
