@@ -28,10 +28,16 @@
 #     i +=1
 
 
-my_set = {10 , 20, 30, 40, 50}
+# my_set = {10 , 20, 30, 40, 50}
 
-sorted_list = sorted(my_set)
+# sorted_list = sorted(my_set)
 
-mid_index = len(sorted_list) // 2
+# mid_index = len(sorted_list) // 2
 
-print(sorted_list[mid_index])
+# print(sorted_list[mid_index])
+
+
+# Q.8 Implement a scenario where multiple virtual machines share the same physical server (multitenancy). Show how isolation is maintained and performance metrics are monitored.
+
+for i in range(4 , 0, -1):
+    print("*" *i)
