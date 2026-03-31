@@ -39,5 +39,14 @@
 
 # Q.8 Implement a scenario where multiple virtual machines share the same physical server (multitenancy). Show how isolation is maintained and performance metrics are monitored.
 
-for i in range(4 , 0, -1):
-    print("*" *i)
+# for i in range(4 , 0, -1):
+#     print("*" *i)
+
+# Even Odd Program
+
+num = int(input("Enter a number: "))
+
+if num % 2 == 0:
+    print("Number is Even")
+else:
+    print("Number is Odd")
