@@ -12,9 +12,14 @@
 
 # print(arr[-2:])
 
-marks = int(input("Enter marks: "))
+# marks = int(input("Enter marks: "))
 
-if marks >= 40:
-    print("Pass")
-else:
-    print("Fail")
+# if marks >= 40:
+#     print("Pass")
+# else:
+#     print("Fail")
+
+a = int(input("enter the first number "))
+b = int(input("enter the first number "))
+sum = a + b
+print(sum)
