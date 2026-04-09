@@ -11,6 +11,13 @@ i hope you all like it."""
 # a="hello world"
 # print (a)
 # Name ="john"
-# print(Name)
-even_value ="2"
-print (even_value)
+# # print(Name)
+# even_value ="2"
+# print (even_value)
+
+
+age = float (input("enter the age:-"))
+print(age)
+exp1 = eval(input("enter any equation here:-"))
+print(exp1)
+
