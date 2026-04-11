@@ -14,11 +14,17 @@
 # print(exp1)
 
 
-a = int(input("Enter first number: "))
-b = int(input("Enter second number: "))
+# a = int(input("Enter first number: "))
+# b = int(input("Enter second number: "))
 
-sum = a + b
-print("Sum =", sum)
+# sum = a + b
+# print("Sum =", sum)
+
+
+a = 10 
+b = 20 
+sum = a +b
+print(sum)
 
 
 
