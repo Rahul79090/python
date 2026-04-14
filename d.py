@@ -8,7 +8,10 @@
 # print(a ** b) # ** matlab power hota hi kisi chije ka ** ka matlab
 
 
-age = float (input("enter the age:-"))
-print(age)
-exp1 = eval(input("enter any equation here:-"))
-print(exp1)
+# age = float (input("enter the age:-"))
+# print(age)
+# exp1 = eval(input("enter any equation here:-"))
+# print(exp1)
+
+for i in range(1, 6):
+    print(i)
