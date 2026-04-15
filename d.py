@@ -13,5 +13,8 @@
 # exp1 = eval(input("enter any equation here:-"))
 # print(exp1)
 
-for i in range(1, 6):
+# for i in range(1, 6):
+#     print(i)
+
+for i in range(1 , 5) :
     print(i)
