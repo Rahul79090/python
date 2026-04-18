@@ -30,16 +30,16 @@
 
 # # print number from 100 to 1
 
-# count =100
-# while count >= 1:
-#     print(count)
-#     count-=1
+count =100
+while count >= 1:
+    print(count)
+    count-=1
 
-#  print the multi[lication table of a number n.
+ print the multi[lication table of a number n.
 
 
-n = int(input("enter the number:- "))
-i = 1
-while i <=10:
-    print(n*i)
-    i +=1
+# n = int(input("enter the number:- "))
+# i = 1
+# while i <=10:
+#     print(n*i)
+#     i +=1
