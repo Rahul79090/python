@@ -16,8 +16,16 @@ i hope you all like it."""
 # print (even_value)
 
 
-age = float (input("enter the age:-"))
-print(age)
-exp1 = eval(input("enter any equation here:-"))
-print(exp1)
+# age = float (input("enter the age:-"))
+# print(age)
+# exp1 = eval(input("enter any equation here:-"))
+# print(exp1)
 
+
+
+count =100
+while count >= 1:
+    print(count)
+    count-=1
+
+ print the multi[lication table of a number n.
