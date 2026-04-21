@@ -1,3 +1,1 @@
-r= int (input())
-# area =3.14*r*r
-# print(area)
+ print the multi[lication table of a number n]

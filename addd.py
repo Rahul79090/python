@@ -9,6 +9,14 @@
 # print("Sum =", sum)
 
 
-arr = [10, 20, 30, 40, 50]
-print(arr)
+# arr = [10, 20, 30, 40, 50]
+# print(arr)
+
+
+n = int(input("Enter a number: "))
+
+count = 1
+while count <= 10:
+    print(n, "x", count, "=", n * count)
+    count += 1
 
