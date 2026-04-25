@@ -21,10 +21,19 @@
 # print("Sum =", sum)
 
 
-a = 10 
-b = 20 
-sum = a +b
-print(sum)
+# a = 10 
+# b = 20 
+# sum = a +b
+# print(sum)
 
+
+ = int(input("Enter number of elements: "))
+arr = []
+
+for i in range(n):
+    num = int(input("Enter element: "))
+    arr.append(num)
+
+print("Array is:", arr)
 
 
