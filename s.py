@@ -27,7 +27,7 @@
 # print(sum)
 
 
- = int(input("Enter number of elements: "))
+ a= int(input("Enter number of elements: "))
 arr = []
 
 for i in range(n):
