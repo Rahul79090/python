@@ -28,4 +28,4 @@ while count >= 1:
     print(count)
     count-=1
 
- print the multi[lication table of a number n.
+#  print the multi[lication table of a number n]
