@@ -24,16 +24,25 @@
 # a = 10 
 # b = 20 
 # sum = a +b
-# print(sum)
+# # print(sum)
 
 
- a= int(input("Enter number of elements: "))
-arr = []
+#  a= int(input("Enter number of elements: "))
+# arr = []
 
-for i in range(n):
-    num = int(input("Enter element: "))
-    arr.append(num)
+# for i in range(n):
+#     num = int(input("Enter element: "))
+#     arr.append(num)
 
-print("Array is:", arr)
+# print("Array is:", arr)
+
+n = 5
+fact = 1
+i = 1
+while i <=n:
+    fact *=i
+    i += 1
+
+print("factorial :-", fact)
 
 
