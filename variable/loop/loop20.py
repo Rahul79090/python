@@ -7,6 +7,14 @@
 #     print(i)
 #     i +=1
 
+# # Function definition
+# def greet():
+#     print("Hello, Welcome to Python!")
+
+# # Function call
+# greet()
+
+
 # Function definition
 def greet():
     print("Hello, Welcome to Python!")
