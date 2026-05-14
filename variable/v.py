@@ -26,12 +26,39 @@
 
 
 
-arr = [5, 2, 9, 1, 7]
+# arr = [5, 2, 9, 1, 7]
 
-max_val = arr[0]
+# max_val = arr[0]
 
-for num in arr:
-    if num > max_val:
-        max_val = num
+# for num in arr:
+#     if num > max_val:
+#         max_val = num
 
-print("Maximum =", max_val)
+# print("Maximum =", max_val)
+
+
+# Complex Array Operations in Python using NumPy
+
+import numpy as np
+
+# Create a complex array
+arr = np.array([2+3j, 4+5j, 6+7j])
+
+print("Complex Array:")
+print(arr)
+
+# Real part
+print("\nReal Parts:")
+print(arr.real)
+
+# Imaginary part
+print("\nImaginary Parts:")
+print(arr.imag)
+
+# Conjugate of complex numbers
+print("\nConjugate:")
+print(np.conj(arr))
+
+# Magnitude (absolute value)
+print("\nMagnitude:")
+print(np.abs(arr))
