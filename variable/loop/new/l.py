@@ -12,9 +12,20 @@
 
 # Write a Python program to check whether a number is even or odd using operators.\
 
-a = int(input("Enter the value of a:- "))
+# a = int(input("Enter the value of a:- "))
 
-if a % 2 == 0:
-    print("Even")
+# if a % 2 == 0:
+#     print("Even")
+# else:
+#     print("Odd")
+
+# Write a Python program to compare two numbers using comparison operators.
+a = int(input("enter the value of a:-"))
+b = int (input("enter the value of b:-"))
+
+if a==b:
+    print("bothe are equale")
+elif a>b:
+    print(a,"is greater then  ",b)
 else:
-    print("Odd")
+    print(b,"less then ",a)
